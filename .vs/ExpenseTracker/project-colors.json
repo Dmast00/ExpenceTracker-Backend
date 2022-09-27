@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c7a22f3c-3508-4dc9-9e35-5656cda4bd74": {
+      "ProjectGuid": "c7a22f3c-3508-4dc9-9e35-5656cda4bd74",
+      "DisplayName": "ExpenseTracker",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
